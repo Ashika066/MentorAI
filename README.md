@@ -27,7 +27,7 @@ MentorAI is an AI-powered career guidance platform designed to provide personali
 5. Practice mock interviews and track your progress.
 
 ## 🚀 Check it out in your browser.
-🔗 
+🔗 https://mentor-ai-tech.vercel.app/
 
 ## 📸 Screenshots
 
